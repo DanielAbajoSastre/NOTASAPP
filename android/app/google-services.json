@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587546029193",
+    "project_id": "appnode-597ca",
+    "storage_bucket": "appnode-597ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587546029193:android:5fe04cd1afc84e61edaa58",
+        "android_client_info": {
+          "package_name": "com.anonymous.PF_DAS"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3xaHX91KbtDr3rfY1uvKVDzKEh1wrmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
